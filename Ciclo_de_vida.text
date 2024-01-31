@@ -1,0 +1,23 @@
+Ciclo de vida de un service worker
+
+
+Registro
+    html
+        app.js
+
+Instalacion
+    sw.js
+    cargar caches, recursos adicionales
+    install
+
+Activacion
+    sw.js
+        Limpieza, cache, actualización
+
+Actualizacion
+
+Espera - No hace nada en segundo plano
+    Eventos - fetch push async
+
+Cierre
+
